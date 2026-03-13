@@ -11,8 +11,6 @@ node_modules
 dist
 dist-ssr
 *.local
-public/labrynth-demo/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
